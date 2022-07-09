@@ -1,6 +1,9 @@
-export { default as Blog} from './blog/Blog';
-export { default as Features} from './features/Features'
+import { RiFindReplaceFill } from 'react-icons/ri';
+
+export { default as About} from './about/About';
+export { default as Projects} from './projects/Projects'
 export { default as Footer} from './footer/Footer'
 export { default as Header} from './header/Header'
-export { default as Possibility} from './possibility/Possibility'
-export { default as WhatPortfolio} from './whatPortfolio/WhatPortfolio'
+export { default as Experience} from './experience/Experience'
+export { default as Education} from './education/Education'
+export { default as Contact } from './contact/Contact'
