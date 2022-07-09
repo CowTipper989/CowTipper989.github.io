@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+:root {
+    --font-family: 'Roboto', sans-serif;
+
+    --gradient-text: linear-gradient(90deg, #00FFFF, #000000);
+    --gradient-bar: linear-gradient(100deg, #00FFFF, #000000);
+
+    --color-bg: #040C18;
+    --color-footer: #222222;
+    --color-blog: #444444;
+    --color-text: #FFFFFF;
+    --color-subtext: #BF40BF;
+
+}
