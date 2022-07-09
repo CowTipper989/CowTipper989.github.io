@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/CowTipper989.github.io/static/js/main.40755c79.js",
+    "main.css": "/CowTipper989.github.io/static/css/main.31d6cfe0.css",
+    "main.js": "/CowTipper989.github.io/static/js/main.58078664.js",
     "index.html": "/CowTipper989.github.io/index.html",
-    "main.40755c79.js.map": "/CowTipper989.github.io/static/js/main.40755c79.js.map"
+    "main.58078664.js.map": "/CowTipper989.github.io/static/js/main.58078664.js.map"
   },
   "entrypoints": [
-    "static/js/main.40755c79.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.58078664.js"
   ]
 }
