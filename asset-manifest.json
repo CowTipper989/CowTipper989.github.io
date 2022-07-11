@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/CowTipper989.github.io/static/css/main.31d6cfe0.css",
-    "main.js": "/CowTipper989.github.io/static/js/main.58078664.js",
+    "main.css": "/CowTipper989.github.io/static/css/main.e7450c53.css",
+    "main.js": "/CowTipper989.github.io/static/js/main.6aa6fb0e.js",
+    "static/media/GitHub.png": "/CowTipper989.github.io/static/media/GitHub.6149aa5ccbc036755594.png",
+    "static/media/logo.svg": "/CowTipper989.github.io/static/media/logo.d8a1e9ad51b58d0491f765c2871857c3.svg",
     "index.html": "/CowTipper989.github.io/index.html",
-    "main.58078664.js.map": "/CowTipper989.github.io/static/js/main.58078664.js.map"
+    "main.e7450c53.css.map": "/CowTipper989.github.io/static/css/main.e7450c53.css.map",
+    "main.6aa6fb0e.js.map": "/CowTipper989.github.io/static/js/main.6aa6fb0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.58078664.js"
+    "static/css/main.e7450c53.css",
+    "static/js/main.6aa6fb0e.js"
   ]
 }
