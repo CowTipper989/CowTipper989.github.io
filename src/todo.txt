@@ -1,4 +1,5 @@
 - Add projects area that works in a similar way to Max's site
+    - These use MDXjs !
 - In the header add a box that shows a random project, and underneath have a link to projects that says "See more of my projects"
 - Add more info to about more info to about me
 - Add dropdown arrow to about me sections that opens up more information

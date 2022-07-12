@@ -112,11 +112,11 @@ a {
 }
 
 /* Phones */
-@media screen and(max-width: 300px) {
+@media screen and(max-width: 450px) {
   .section__padding {
       padding: 4rem 2rem;
   }
   .section__margin {
-      margin: 0rem 0rem;
+      margin: 1rem 1rem;
   }
 }

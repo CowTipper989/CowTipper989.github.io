@@ -1,9 +1,9 @@
 import React from 'react';
-import './cta.css';
+import './projectSmall.css';
 
 const CTA = () => {
   return (
-    <div>
+    <div className='portfolio__projectSmall'>
         CTA
     </div>
   )
