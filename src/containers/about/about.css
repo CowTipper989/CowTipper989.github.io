@@ -110,7 +110,7 @@
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 460px) {
     .portfolio__about-container .portfolio__features-container__feature {
         margin: 1rem 0;
         min-width: 200px;
