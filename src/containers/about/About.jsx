@@ -5,7 +5,7 @@ import './about.css';
 
 const About = () => {
   return (
-    <div className='portfolio__about section__margin' id="about">
+    <div className='portfolio__about' id="about">
         <div className='portfolio__about-heading' >
           <h1 className='gradient__text'>
             About Me

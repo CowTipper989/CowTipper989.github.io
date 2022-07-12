@@ -76,11 +76,20 @@
     margin-top: 0.5rem;
 }
 
+.portfolio__about {
+    margin: 4rem 6rem;
+}
+
+
 @media screen and (max-width: 850px) {
     .portfolio__about-heading {
         flex-direction: column;
         align-items: flex-start;
         margin-bottom: 0rem;
+    }
+
+    .portfolio__about {
+        margin: 4rem 6rem;
     }
 
 }
@@ -95,12 +104,19 @@
         line-height: 40px;
     }
 
+    .portfolio__about {
+        margin: 4rem 6rem;
+    }
+
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
     .portfolio__about-container .portfolio__features-container__feature {
         margin: 1rem 0;
         min-width: 200px;
     }
 
+    .portfolio__about {
+        margin: 1rem 1rem;
+    }
 }
