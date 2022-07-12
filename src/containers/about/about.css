@@ -4,7 +4,7 @@
 
     padding: 2rem;
     background: var(--color-bg);
-
+ 
     /* Generated here: https://angrytools.com/gradient/ */
     /* ff 3.6+ */
     background:-moz-radial-gradient(ellipse at 100% 100%, rgba(5, 120, 111, 1) 2%, rgba(2, 63, 62, 1) 100%);
@@ -100,7 +100,7 @@
 @media screen and (max-width: 350px) {
     .portfolio__about-container .portfolio__features-container__feature {
         margin: 1rem 0;
-        min-width: 100%;
+        min-width: 200px;
     }
 
 }
