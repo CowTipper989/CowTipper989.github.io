@@ -1,0 +1,16 @@
+.portfolio__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-height: auto;
+}
+
+.portfolio__footer_logo img {
+    width: 100px;
+    height: 100px;
+}
+
+.portfolio__footer p {
+    font-family: var(--font-family);
+    color: var(--color-text);
+}

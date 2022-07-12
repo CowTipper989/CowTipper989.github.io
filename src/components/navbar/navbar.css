@@ -11,7 +11,7 @@
 .portfolio__navbar-links {
     flex: 1;
     display: flex;
-    justify-content: 'flex-start';
+    justify-content: flex-start;
     align-items: center;
 }
 
@@ -86,7 +86,7 @@
 }
 
 /* Large */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
     .portfolio__navbar-links_container {
         display: none;
     }
