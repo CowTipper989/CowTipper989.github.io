@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-height: auto;
+    max-height: 0;
 }
 
 .portfolio__footer_logo img {
