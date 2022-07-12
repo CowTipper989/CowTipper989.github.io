@@ -49,9 +49,8 @@ a {
 }
 
 .section__margin {
-    margin: 4rem 6rem;
+  margin: 4rem 6rem;
 }
-
 
 /* CSS Animations Generated With: https://animista.net/ */
 .scale-up-center {
@@ -108,6 +107,16 @@ a {
       padding: 4rem 2rem;
   }
   .section__margin {
-      margin: 4rem 2rem;
+    margin: 0rem;
+}
+}
+
+/* Phones */
+@media screen and(max-width: 300px) {
+  .section__padding {
+      padding: 4rem 2rem;
+  }
+  .section__margin {
+      margin: 0rem 0rem;
   }
 }
