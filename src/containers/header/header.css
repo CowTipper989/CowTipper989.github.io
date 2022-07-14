@@ -32,6 +32,11 @@
     margin-top: 1.5rem;
 }
 
+.portfolio__header-image {
+    margin-right: auto;
+    margin-left: auto;
+}
+
 @media screen and (max-width: 750px){
     .portfolio__header-image {
         display: none;
