@@ -1,5 +1,6 @@
 import React from 'react';
 import { ProjectSmall } from '../../components';
+import { ReactImg } from './imports';
 import './projects.css';
 
 const Projects = () => {
@@ -11,7 +12,7 @@ const Projects = () => {
           </h1>
         </div>
         <div className='portfolio__projects-container'>
-          <ProjectSmall />
+          <ProjectSmall title="Portfolio Website" text="I built this portfolio website using React" img={ReactImg} />
         </div>
     </div>
   )

@@ -1,5 +1,4 @@
 import React from 'react'
-
 import { About, Contact, Education, Footer, Header, Projects, Experience } from './containers';
 import { ProjectSmall, Brand, Navbar } from './components';
 import './App.css';
@@ -13,8 +12,8 @@ const App = () => {
           <Brand />
           <About />
           <Projects />
+          <Footer />
         </div>
-        <Footer />
     </div>
   )
 }
